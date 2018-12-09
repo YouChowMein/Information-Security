@@ -1,0 +1,43 @@
+web学习建议：
+1.第一步
+	前端html+css+js (不用精通，只要看得懂)
+	后端php			
+	数据库，优先掌握mysql
+	
+2.第二步
+	可以看我推荐的书，个人建议顺序为：
+		《PHP代码审计：企业级web安全》
+		《白帽子讲web安全》
+		《web安全攻防渗透测试实战指南》
+		
+3.可以逛逛网上的论坛社区
+	先知：https://xz.aliyun.com/			  技术论坛
+	知道创宇：https://www.seebug.org/		  主要是最新漏洞报告
+	freebuf：http://www.freebuf.com/		  技术论坛
+	i春秋：https://www.ichunqiu.com/		  有很多视频，但是毕竟老
+	p神的github：https://github.com/phith0n   里面有很多cve的复现和环境  
+	
+4.在你学习的任意阶段都可以多做题
+	推荐题库：
+	墨者：https://www.mozhe.cn/bug				很基础
+	bugku：http://ctf.bugku.com/				基于ctfd平台的一个靶场，题不难
+	实验吧：http://ctf.bugku.com/				有题，有练习，有视频（比较老）
+	i春秋：https://www.ichunqiu.com/			题有相对上面的点难
+	
+5.web你需要的环境（kali强烈建议装，其他看你喜好）：
+	linux虚拟机：kali		（集成很多工具，linux可以做很多windows没法做的事，也可以复现环境）
+		下载地址：https://www.kali.org/downloads/
+	windows虚拟机：win7（推荐）		（用于自己复现环境）
+		下载地址：微软官方找
+	linux虚拟机：Metasploitable2-Linux	（很好的靶子，很多漏洞自己打）
+		下载地址：https://sourceforge.net/projects/metasploitable/files/Metasploitable2/
+		
+6.其他建议：
+	学习的时候要习惯做笔记，可以写博客
+		博客园：https://www.cnblogs.com/
+	如果不分享，想自己本地记笔记
+		软件：https://www.typora.io/	（它有自己的语法，写着很方便，自行百度）
+		
+7.你需要额外掌握的编程语言：
+	python：有些情况你需要用它写脚本，还有些网站是python写的
+	java：java也可以写web，且以后趋势java写web会变多
